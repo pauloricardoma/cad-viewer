@@ -15,7 +15,8 @@ export default {
     },
     measureAngle: {
       text: 'Angle',
-      description: 'Measures the angle between two lines sharing a common vertex'
+      description:
+        'Measures the angle between two lines sharing a common vertex'
     },
     measureArea: {
       text: 'Area',
@@ -111,7 +112,8 @@ export default {
       center: 'Center',
       node: 'Node',
       quadrant: 'Quadrant',
-      insertion: 'Insertion'
+      insertion: 'Insertion',
+      nearest: 'Nearest'
     },
     pointStyle: {
       tooltip: 'Modify point style'
